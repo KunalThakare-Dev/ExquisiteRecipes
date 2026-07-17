@@ -1,2 +1,2 @@
 # ExquisiteRecipes
-Delicious food recipes blog page(Demon Model)
+Delicious food recipes blog page(Demo Model)
